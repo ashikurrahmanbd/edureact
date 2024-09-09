@@ -7,7 +7,7 @@ import aboutimage from '../../assets/about-img.jpg';
 
 function About() {
   return (
-    <div className='about-wrapper'>
+    <div className='about-wrapper' id='aboutus'>
       <div className="container">
         <div className="about">
             <div className="about-left">

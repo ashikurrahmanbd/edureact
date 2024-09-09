@@ -13,6 +13,7 @@
 
 .about-left {
   position: relative;
+  flex-basis: 47%;
 }
 
 .about-left img {
@@ -20,7 +21,7 @@
   border-radius: 10px;
 }
 .about-right {
-  flex-basis: 49%;
+  flex-basis: 47%;
 }
 
 .about-right h3 {
