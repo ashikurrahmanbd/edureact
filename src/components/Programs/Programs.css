@@ -28,10 +28,13 @@
   justify-content: center;
   opacity: 0;
   transition: 0.3s ease-in-out;
+  cursor: pointer;
+  padding-top: 70%;
 }
 
 .program:hover .caption {
   opacity: 1;
+  padding-top: 0;
 }
 
 .caption-content {

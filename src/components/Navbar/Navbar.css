@@ -9,6 +9,11 @@ nav {
   left: 0;
 }
 
+.dark-nav {
+  background: #20bdff;
+  transition: 0.3s;
+}
+
 .nav-component {
   display: flex;
   align-items: center;
