@@ -45,7 +45,14 @@ nav ul li {
   outline: 0;
   transition: 0.3s ease-in-out;
 }
+.nav-component .btn {
+  border: 2px solid transparent;
+}
+.nav-component .btn:hover {
+  border: 2px solid #fff;
+}
+
 .btn:hover {
-  background: #0d9296;
+  background: #20bdff;
   color: #fff;
 }

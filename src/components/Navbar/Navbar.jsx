@@ -12,8 +12,7 @@ function Navbar() {
         window.scrollY > 50 ? setSticky(true) : setSticky(false);
     });
   }, []);
-
-  console.log(sticky);
+  
   return (
 
     <nav className={`${sticky ? 'dark-nav' : ''}`}>
