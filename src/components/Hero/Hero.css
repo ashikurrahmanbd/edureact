@@ -19,3 +19,7 @@
 .hero-btn {
   margin-top: 20px;
 }
+
+.hero-btn svg {
+  margin-left: 8px;
+}
